@@ -1,2 +1,2 @@
-# learning-about-version-control
-individual assignment 1
+# Learning About Version Control
+Author: An Zhou #36008316
